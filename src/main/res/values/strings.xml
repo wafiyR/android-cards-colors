@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise6Q2</string>
+    <string name="cont_descImgCricle">Image Circle</string>
+    <string name="cont_descImgRectangle">Image Rectangle</string>
+    <string name="cont_descImgAndroid">Image Android</string>
+    <string name="cont_descImgSquare">Image Square</string>
+</resources>
